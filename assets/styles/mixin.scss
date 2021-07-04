@@ -1,0 +1,8 @@
+@function pixelToRem($val) {
+  @return ($val / 10px) * 1rem;
+}
+
+@mixin fontSize($val) {
+  font-size: $val;
+  // font-size: pixelToRem($val);
+}
