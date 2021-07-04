@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app-bluestack/static/css/main.1383b51f.chunk.css",
-    "main.js": "/my-app-bluestack/static/js/main.a018ad2b.chunk.js",
-    "main.js.map": "/my-app-bluestack/static/js/main.a018ad2b.chunk.js.map",
-    "runtime-main.js": "/my-app-bluestack/static/js/runtime-main.5d289bf9.js",
-    "runtime-main.js.map": "/my-app-bluestack/static/js/runtime-main.5d289bf9.js.map",
-    "static/js/2.5ea7ded6.chunk.js": "/my-app-bluestack/static/js/2.5ea7ded6.chunk.js",
-    "static/js/2.5ea7ded6.chunk.js.map": "/my-app-bluestack/static/js/2.5ea7ded6.chunk.js.map",
-    "static/js/3.5ed20a6e.chunk.js": "/my-app-bluestack/static/js/3.5ed20a6e.chunk.js",
-    "static/js/3.5ed20a6e.chunk.js.map": "/my-app-bluestack/static/js/3.5ed20a6e.chunk.js.map",
-    "index.html": "/my-app-bluestack/index.html",
-    "static/css/main.1383b51f.chunk.css.map": "/my-app-bluestack/static/css/main.1383b51f.chunk.css.map",
-    "static/js/2.5ea7ded6.chunk.js.LICENSE.txt": "/my-app-bluestack/static/js/2.5ea7ded6.chunk.js.LICENSE.txt",
-    "static/media/getFetch.cjs": "/my-app-bluestack/static/media/getFetch.582d29c4.cjs"
+    "main.css": "/app-frontend-blue-stack/static/css/main.1383b51f.chunk.css",
+    "main.js": "/app-frontend-blue-stack/static/js/main.a018ad2b.chunk.js",
+    "main.js.map": "/app-frontend-blue-stack/static/js/main.a018ad2b.chunk.js.map",
+    "runtime-main.js": "/app-frontend-blue-stack/static/js/runtime-main.3440ae20.js",
+    "runtime-main.js.map": "/app-frontend-blue-stack/static/js/runtime-main.3440ae20.js.map",
+    "static/js/2.5ea7ded6.chunk.js": "/app-frontend-blue-stack/static/js/2.5ea7ded6.chunk.js",
+    "static/js/2.5ea7ded6.chunk.js.map": "/app-frontend-blue-stack/static/js/2.5ea7ded6.chunk.js.map",
+    "static/js/3.5ed20a6e.chunk.js": "/app-frontend-blue-stack/static/js/3.5ed20a6e.chunk.js",
+    "static/js/3.5ed20a6e.chunk.js.map": "/app-frontend-blue-stack/static/js/3.5ed20a6e.chunk.js.map",
+    "index.html": "/app-frontend-blue-stack/index.html",
+    "static/css/main.1383b51f.chunk.css.map": "/app-frontend-blue-stack/static/css/main.1383b51f.chunk.css.map",
+    "static/js/2.5ea7ded6.chunk.js.LICENSE.txt": "/app-frontend-blue-stack/static/js/2.5ea7ded6.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/app-frontend-blue-stack/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d289bf9.js",
+    "static/js/runtime-main.3440ae20.js",
     "static/js/2.5ea7ded6.chunk.js",
     "static/css/main.1383b51f.chunk.css",
     "static/js/main.a018ad2b.chunk.js"
