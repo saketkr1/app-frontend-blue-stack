@@ -1,23 +1,32 @@
 {
   "files": {
     "main.css": "/app-frontend-blue-stack/static/css/main.1383b51f.chunk.css",
-    "main.js": "/app-frontend-blue-stack/static/js/main.5f3d3c61.chunk.js",
-    "main.js.map": "/app-frontend-blue-stack/static/js/main.5f3d3c61.chunk.js.map",
-    "runtime-main.js": "/app-frontend-blue-stack/static/js/runtime-main.3440ae20.js",
-    "runtime-main.js.map": "/app-frontend-blue-stack/static/js/runtime-main.3440ae20.js.map",
-    "static/js/2.5ea7ded6.chunk.js": "/app-frontend-blue-stack/static/js/2.5ea7ded6.chunk.js",
-    "static/js/2.5ea7ded6.chunk.js.map": "/app-frontend-blue-stack/static/js/2.5ea7ded6.chunk.js.map",
-    "static/js/3.5ed20a6e.chunk.js": "/app-frontend-blue-stack/static/js/3.5ed20a6e.chunk.js",
-    "static/js/3.5ed20a6e.chunk.js.map": "/app-frontend-blue-stack/static/js/3.5ed20a6e.chunk.js.map",
+    "main.js": "/app-frontend-blue-stack/static/js/main.3953402b.chunk.js",
+    "main.js.map": "/app-frontend-blue-stack/static/js/main.3953402b.chunk.js.map",
+    "runtime-main.js": "/app-frontend-blue-stack/static/js/runtime-main.4daef6d6.js",
+    "runtime-main.js.map": "/app-frontend-blue-stack/static/js/runtime-main.4daef6d6.js.map",
+    "static/js/2.275f4fb6.chunk.js": "/app-frontend-blue-stack/static/js/2.275f4fb6.chunk.js",
+    "static/js/2.275f4fb6.chunk.js.map": "/app-frontend-blue-stack/static/js/2.275f4fb6.chunk.js.map",
+    "static/js/3.c1f5f860.chunk.js": "/app-frontend-blue-stack/static/js/3.c1f5f860.chunk.js",
+    "static/js/3.c1f5f860.chunk.js.map": "/app-frontend-blue-stack/static/js/3.c1f5f860.chunk.js.map",
     "index.html": "/app-frontend-blue-stack/index.html",
     "static/css/main.1383b51f.chunk.css.map": "/app-frontend-blue-stack/static/css/main.1383b51f.chunk.css.map",
-    "static/js/2.5ea7ded6.chunk.js.LICENSE.txt": "/app-frontend-blue-stack/static/js/2.5ea7ded6.chunk.js.LICENSE.txt",
-    "static/media/getFetch.cjs": "/app-frontend-blue-stack/static/media/getFetch.582d29c4.cjs"
+    "static/js/2.275f4fb6.chunk.js.LICENSE.txt": "/app-frontend-blue-stack/static/js/2.275f4fb6.chunk.js.LICENSE.txt",
+    "static/media/G1.png": "/app-frontend-blue-stack/static/media/G1.bc5dc000.png",
+    "static/media/G3.png": "/app-frontend-blue-stack/static/media/G3.64d2d22b.png",
+    "static/media/G4.png": "/app-frontend-blue-stack/static/media/G4.3ef629fb.png",
+    "static/media/G5.png": "/app-frontend-blue-stack/static/media/G5.70e33e05.png",
+    "static/media/G6.png": "/app-frontend-blue-stack/static/media/G6.31091d04.png",
+    "static/media/G7.png": "/app-frontend-blue-stack/static/media/G7.602c179c.png",
+    "static/media/G8.png": "/app-frontend-blue-stack/static/media/G8.13fad18a.png",
+    "static/media/Popup1.png": "/app-frontend-blue-stack/static/media/Popup1.69c86346.png",
+    "static/media/getFetch.cjs": "/app-frontend-blue-stack/static/media/getFetch.582d29c4.cjs",
+    "static/media/logo.jpg": "/app-frontend-blue-stack/static/media/logo.08ab8ff3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3440ae20.js",
-    "static/js/2.5ea7ded6.chunk.js",
+    "static/js/runtime-main.4daef6d6.js",
+    "static/js/2.275f4fb6.chunk.js",
     "static/css/main.1383b51f.chunk.css",
-    "static/js/main.5f3d3c61.chunk.js"
+    "static/js/main.3953402b.chunk.js"
   ]
 }
