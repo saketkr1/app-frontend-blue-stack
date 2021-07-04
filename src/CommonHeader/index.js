@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar } from "react-bootstrap";
-const logo = "../images/bluestacks.png";
+import logo from '../assets/bluestacks.png';
 
 function CommonHeader() {
   return (

@@ -3,6 +3,10 @@ import { useTranslation } from 'react-i18next';
 import { Table, ButtonGroup } from 'react-bootstrap';
 import Price from './Price';
 
+import file from '../assets/file.png';
+import stats from '../assets/statistics-report.png';
+import cal from '../assets/calendar.png';
+
 let months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
     'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -18,7 +22,7 @@ function TabsComponent(props) {
     const renderCalender = () => {
         return (
             <div>
-                <img alt='calendar' className="ml-5" src={'../images/calendar.png'}
+                <img alt='calendar' className="ml-5" src={cal}
                     style={{ width: "2.5em", height: "2.5em", float: "left" }} />
                 <button variant="light" style={{
                     background: "white", color: "#57698a",
@@ -53,7 +57,7 @@ function TabsComponent(props) {
 
                         </td>
                         <td style={{ width: "24%" }}>
-                            <img alt='game_url' className="mr-3" src={'../images/' + item['image_url']}
+                            <img alt='game_url' className="mr-3" src={require('../assets/' + item['image_url'])}
                                 style={{ width: "3em", height: "3em", float: "left" }} />
                             <div><p className="my-0"><b> {item['name']} </b></p>
                                 <sub> {item['region']} </sub> </div>
@@ -62,10 +66,10 @@ function TabsComponent(props) {
                             <Price item={item} />
                         </td>
                         <td style={{ width: "46%" }} > <ButtonGroup style={{ display: "flex" }}>
-                            <img alt='csv' className="mr-3" src={'../images/file.png'}
+                            <img alt='csv' className="mr-3" src={file}
                                 style={{ width: "2.2em", height: "2.2em", float: "left" }} />
                             <p className="ml-1 mx-0 my-0"> CSV</p>
-                            <img alt='report' className="ml-5" src={'../images/statistics-report.png'}
+                            <img alt='report' className="ml-5" src={stats}
                                 style={{ width: "2.2em", height: "2.2em", float: "left" }} />
                             <p className="ml-2 mx-0 my-0">{t('report')}</p>
                             {renderCalender()}
